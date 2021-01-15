@@ -31,7 +31,6 @@
 /log/error.log
 /localhost.sql
 /error.log
-/favicon.ico
 /log/errors.log
 /host.key
 /app/kibana/
@@ -200,7 +199,6 @@
 /loggers
 /tmui/login.jsp/..;/tmui/locallb/workspace/fileRead.jsp?fileName=/etc/passwd'
 /actuators/dump
-/robots.txt
 /auditevents
 /api/application.wadl
 /.composer/composer.json
