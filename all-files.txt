@@ -287,7 +287,6 @@
 /explore
 /express
 /extdirect
-/favicon.ico
 /fckeditor/_samples/default.html
 /fetch
 /filemanager/upload.php
@@ -492,7 +491,6 @@
 /rest/tinymce/1/macro/preview
 /rgs/
 /rgsclients/
-/robots.txt
 /rpc/
 /rpcwithcert/
 /run
