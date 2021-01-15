@@ -450,6 +450,7 @@
 /plugin/build
 /plugins/servlet/gadgets/makeRequest?url=https
 /plugins/servlet/gadgets/makeRequest?url=https://google.com
+/plugins/servlet/gadgets/makeRequest?url=https://google.com
 /plugins/servlet/oauth/users/icon
 /plugins/servlet/svnwebclient/changedResource.jsp?url=%22%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
 /plugins/servlet/svnwebclient/commitGraph.jsp?%27)%3Balert(%22XSS
@@ -488,6 +489,7 @@
 /rest/api/latest/groupuserpicker?query=1&maxResults=50000&showAvatar=true
 /rest/beta/repositories/go/group
 /rest/tinymce/1/macro/preview
+/rest/tinymce/1/macro/preview
 /rgs/
 /rgsclients/
 /robots.txt
@@ -502,10 +504,13 @@
 /search/members/?id`%3D520)%2f**%2funion%2f**%2fselect%2f**%2f1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2Cunhex%28%2770726f6a656374646973636f766572792e696f%27%29%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%23sqli=1
 /search?search_key={{1337*1338}}
 /secure/ConfigurePortalPages!default.jspa?view=popular
+/secure/ConfigurePortalPages!default.jspa?view=popular
 /secure/ContactAdministrators!default.jspa
 /secure/Dashboard.jspa
 /secure/ManageFilters.jspa?filter=popular&filterView=popular
 /secure/ManageFilters.jspa?filterView=search&Search=Search&filterView=search&sortColumn=favcount&sortAscending=false
+/secure/ManageFilters.jspa?filterView=search&Search=Search&filterView=search&sortColumn=favcount&sortAscending=false
+/secure/popups/UserPickerBrowser.jspa
 /secure/popups/UserPickerBrowser.jspa
 /secure/QueryComponent!Default.jspa
 /secure/ViewUserHover.jspa
@@ -516,6 +521,8 @@
 /server.key
 /service?Wsdl
 /servicedesk/customer/user/login
+/servicedesk/customer/user/login
+/servicedesk/customer/user/signup
 /servicedesk/customer/user/signup
 /servlet/Satellite?destpage=%22%3Ch1xxx%3Cscriptalert(1)%3C%2Fscript&pagename=OpenMarket%2FXcelerate%2FUIFramework%2FLoginError
 /servlet/taskProc?taskId=shortURL&taskEnv=xml&taskContentType=xml&srcURL=https
