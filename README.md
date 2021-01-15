@@ -27,13 +27,13 @@ Feel free to open a new pull-request, if you have a new CVE endpoint to add, or 
 
 Please note that the wordlists are intended to be small with high-quality endpoints, so they are intended to be small lists for passive scanning only.
 
-For extended and large wordlists, please refer to https://wordlists.assetnote.io/ and https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content
+For extended and large wordlists, please refer to [Assetnote](https://wordlists.assetnote.io/) and [SecLists](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content)
 
 
 ## Credits
 
 - A special thanks to [project-discovery](https://github.com/projectdiscovery/), a large part of the CVE endpoints were extracted from their projects.
 
-- Many endpoints were also curated from this tweet: https://twitter.com/NahamSec/status/1177672652011343873
+- Many endpoints were also curated from this tweet by [NahamSec](https://twitter.com/NahamSec/status/1177672652011343873)
  
 - Others were shared by different individuals, from tweets, Hackerone reports, personal wordlists .. etc. 
