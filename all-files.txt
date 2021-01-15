@@ -634,4 +634,4 @@
 /zipkin/
 /zp
 /zp/zp
-INF/maven/com.atlassian.jira/atlassian
+/INF/maven/com.atlassian.jira/atlassian
