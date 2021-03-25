@@ -43,6 +43,7 @@
 //evil.com/%2F..
 //evil.com/..;/css
 //secure/ConfigurePortalPages!default.jspa?view=search&searchOwnerUserName=%3Cscript%3Ealert(1)%3C/script%3E&Search=Search
+/secure/QueryComponent!Default.jspa
 /_cat/health
 /_cat/indices
 /_cluster/health
