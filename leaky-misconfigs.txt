@@ -283,6 +283,7 @@
 /irj/portal
 /jasperserver/login.html?error=1
 /jira/secure/Dashboard.jspa
+/secure/QueryComponent!Default.jspa
 /jkstatus/
 /jmx
 /jolokia
