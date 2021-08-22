@@ -2,6 +2,7 @@
 /.git
 /.svn
 /.wp-config.php.swp
+/accesslogs/
 /actuator
 /admin
 /admin/heapdump
