@@ -3,7 +3,13 @@ A collection of **special** paths linked to major web CVEs, known juicy APIs, mi
 
 
 ## Goal
-I started this repository to make it open for everyone to contribute, with a simple goal of making high-quality wordlists for the community. It could be very helpful whether Pentesters use it for their assessments, security engineers as a part of their DAST solution, or bug bounty hunters to scan a huge number of subdomains/hosts looking for quick wins using high-quality wordlists.
+I started this repository to make it open for everyone to contribute, with a simple goal of making high-quality wordlists for the community. It could be very helpful whether Pentesters use it for their assessments, security engineers as a part of their DAST solution, or bug bounty hunters to scan a huge number of subdomains/hosts looking for quick wins using high-quality wordlists, this should be your go-to for quick hits on any targets. It includes:
+
+* A curated list of PATHs linked to previous CVEs, you can use it to scan passively for endpoints related to CVEs.
+
+* PATHs associated with known misconfigurations, endpoints that leaks some sensitive data or grant access to some special parts of the app .. etc.
+
+* Special paths that usually expose API endpoints or server information. Perfectly suitable for discovering more "hidden" APIs, interesting and verbose endpoints.
 
 
 ## Contribution
