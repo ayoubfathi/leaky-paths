@@ -728,3 +728,6 @@
 /.git/refs/heads
 /.git/head
 /.git/config
+/.github/workflows/dependabot.yml
+/.github/workflows/tests.yml
+/.github/workflows/main.yml
