@@ -722,3 +722,6 @@
 /zipkin/
 /zp
 /zp/zp
+/openapi.json
+/redoc
+/docs
