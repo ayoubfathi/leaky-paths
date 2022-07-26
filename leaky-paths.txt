@@ -725,3 +725,6 @@
 /openapi.json
 /redoc
 /docs
+/.git/refs/heads
+/.git/head
+/.git/config
