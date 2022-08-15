@@ -30,5 +30,3 @@ For extended and large wordlists, please refer to [Assetnote](https://wordlists.
  
 - Others were shared by various individuals, from tweets, Hackerone reports, personal wordlists. 
 
-## Samo's addons
-I added some paths from google hacking database and also created wildcards worth searching for.
