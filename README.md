@@ -29,3 +29,6 @@ For extended and large wordlists, please refer to [Assetnote](https://wordlists.
 - Many endpoints were also curated from this tweet by [NahamSec](https://twitter.com/NahamSec/status/1177672652011343873)
  
 - Others were shared by various individuals, from tweets, Hackerone reports, personal wordlists. 
+
+## Samo's addons
+I added some paths from google hacking database and also created wildcards worth searching for.
