@@ -8,9 +8,11 @@
 .config/gcloud/credentials.db
 .config/hexchat
 .config/monero-project/monero-core.conf
+.cpanel
 .davfs2
 .docker/ca.pem
 .docker/config.json
+.git
 .git-credentials
 .gitconfig
 .netrc
@@ -252,6 +254,7 @@
 /adfs/services/trust/2005/windowstransport
 /adjuncts/3a890183/
 /admin
+/admin-portal
 /admin../admin
 /admin.html?s=admin/api.Update/get/encode/34392q302x2r1b37382p382x2r1b1a1a1b1a1a1b1a1a1b1a1a1b1a1a1b1a1a1b1a1a1b1a1a1b1a1a1b2t382r1b342p37373b2s
 /admin/
@@ -325,6 +328,7 @@
 /api/graphql
 /api/graphql/v1
 /api/index.html
+/api/index.php
 /api/jolokia/read<svgonload=alert(document.domain)>?mimeType=text/html
 /api/jsonws
 /api/jsonws/invoke
@@ -451,6 +455,7 @@
 /CFIDE/administrator/images/mx_login.gif
 /cfide/administrator/images/mx_login.gif
 /cgi
+/cgi-bin/luci
 /cgi-bin/nagios3/status.cgi
 /cgi-bin/nagios4/status.cgi
 /cgi-bin/printenv.pl
@@ -747,6 +752,7 @@
 /install/lib/ajaxHandlers/ajaxServerSettingsChk.php?rootUname=%3b%63%61%74%20%2f%65%74%63%2f%70%61%73%73%77%64%20%23
 /installer
 /intikal/storage/
+/intranet/login.php
 /invoker/EJBInvokerServlet/
 /invoker/JMXInvokerServlet
 /invoker/JMXInvokerServlet/
@@ -949,6 +955,7 @@
 /pools/default/buckets
 /portal
 /portal-graphql
+/portal/apis/fileExplorer
 /portal/favicon.ico
 /portal/images/MyVue/MyVueHelp.png
 /powershell/
@@ -1391,7 +1398,9 @@
 /wgetrc
 /whoAmI/
 /wiki
+/wordpress
 /wp
+/wp-content
 /ws2020/
 /ws2021/
 /ws_ftp.ini
