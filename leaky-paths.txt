@@ -1397,6 +1397,7 @@
 /webticket/webticketservice.svcabs/
 /wgetrc
 /whoAmI/
+/wiki
 /wordpress
 /wp
 /wp-content
