@@ -24,8 +24,5 @@ For extended and large wordlists, please refer to [Assetnote](https://wordlists.
 
 ## Credits
 
-- A special thanks to [project-discovery](https://github.com/projectdiscovery/), a large part of the CVE endpoints were extracted from their projects.
-
-- Many endpoints were also curated from this tweet by [NahamSec](https://twitter.com/NahamSec/status/1177672652011343873)
- 
-- Others were shared by various individuals, from tweets, Hackerone reports, personal wordlists. 
+- A special thanks to [project-discovery](https://github.com/projectdiscovery/), a large part of the CVE endpoints were extracted from their projects. 
+- Others were shared by various individuals on Twitter, Hackerone reports, own personal wordlists. 
