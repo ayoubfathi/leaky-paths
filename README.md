@@ -1,25 +1,23 @@
 # About
 A collection of **special** paths linked to major web CVEs, known juicy APIs, misconfigurations.. etc. These could be used for web-content discovery as a way to find quick wins.
 
-**Update:** I have removed all the other sub-list files and kept everything consolidated on "all-files". This would be much better to remove confusion and keep it all-in-one.
-
 
 ## Goal
-I started this repository to make it open for everyone to contribute, with the simple goal of making high-quality wordlists for the community. It could be very helpful whether Pentesters use it for their assessments, security engineers as a part of their DAST solution, or bug bounty hunters to scan a massive number of subdomains/hosts looking for quick wins using high-quality wordlists; this should be your go-to for quick hits on any targets. It includes:
+With the goal of providing the community with high-quality wordlists, I opened up this repository for contributions from anyone. This should be your go-to for quick hits on any targets, whether you're a Pentester using it for assessments, a security engineer using it as part of your DAST solution, or a bug bounty hunter scanning a large number of subdomains/hosts for quick wins using high-quality wordlists. It contains:
 
-* A curated list of PATHs linked to previous CVEs; you can use it to scan passively for endpoints related to CVEs.
+* PATHS associated with known misconfigurations, endpoints leaking sensitive data, granting access to some special parts of the app, etc.
 
-* PATHs associated with known misconfigurations, endpoints that leak sensitive data, grant access to some special parts of the app .. etc.
+* A curated list of PATHs associated with previous CVEs; you can use it to passively scan for endpoints associated with CVEs.
 
-* Special paths that usually expose API endpoints or server information. Perfectly suitable for discovering more "hidden" APIs, interesting and verbose endpoints.
+* Paths that typically expose API endpoints or server data. Perfect for finding more "hidden" APIs, interesting and verbose endpoints.
 
 
 ## Contribution
-Feel free to open a new Pull-request if you have a new CVE endpoint to add or simply any special paths that usually return juicy information. 
+You are welcome to create a new pull request if you have a new endpoint to include or simply any unique paths that typically return juicy information.
 
-Please note that the wordlist is intentionally short to focus only on high-quality endpoints, so it is not vast enough to rely entirely on it for active scanning.
+Please keep in mind that the wordlist is intentionally kept short in order to focus only on high-quality endpoints, so it is not comprehensive enough for active scanning.
 
-For extended and large wordlists, please refer to [Assetnote](https://wordlists.assetnote.io/) and [SecLists](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content)
+Please see [Assetnote](https://wordlists.assetnote.io/) and [SecLists](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content) for extended and large wordlists
 
 
 ## Credits
