@@ -9,7 +9,7 @@ With the goal of providing the community with high-quality wordlists, I opened u
 
 * Paths that typically expose API endpoints or server data. Perfect for finding more "hidden" APIs, interesting and verbose endpoints.
 
-* The direction this wordlist is taking is shifting away from CVEs, and focusing mostly on infrastructure and web-related paths from modern tech stacks, which often yield better returns than CVEs.
+* The direction this wordlist is taking is shifting away from CVEs, and focusing mostly on infrastructure and web-related paths from modern tech stacks, which often yield better returns.
 
 
 ## Contribution
