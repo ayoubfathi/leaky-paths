@@ -56,6 +56,8 @@
 /.editorconfig
 /.env
 /.env.backup
+/.env.bak
+/.env.config
 /.env.dev
 /.env.dev.local
 /.env.development.local
@@ -74,6 +76,7 @@
 /.env.www
 /.env_1
 /.env_sample
+/.envrc
 /.esmtprc
 /.ftpconfig
 /.git
@@ -114,7 +117,9 @@
 /.github/workflows/tests.yml
 /.gitignore
 /.gitlab-ci.yml
+/.hg
 /.hg/hgrc
+/.hg/requires
 /.htaccess
 /.htpasswd
 /.idea
@@ -183,6 +188,10 @@
 /?view=log
 /?wsdl
 /_/.ssh/authorized_keys
+/__/auth/handler
+/__/auth/handler/callback
+/__/auth/handler/login
+/__/auth/handler/signout
 /___graphql
 /__clockwork/app
 /__swagger__/
@@ -287,6 +296,7 @@
 /admin/
 /Admin/
 /admin/../admin
+/admin/.htpasswd
 /admin//phpmyadmin/
 /admin/adminer.php
 /admin/buoy
@@ -371,6 +381,7 @@
 /api/.env
 /api/__swagger__/
 /api/_swagger_/
+/api/admin
 /api/api
 /api/api-browser/
 /api/api-docs
@@ -384,6 +395,7 @@
 /api/cask/graphql
 /api/cask/graphql-playground
 /api/config
+/api/debug
 /api/dependencies
 /api/docs
 /api/docs/
@@ -428,6 +440,7 @@
 /api/v1/application.wadl
 /api/v1/authorities
 /api/v1/canal/config/1/1
+/api/v1/health
 /api/v1/healthz
 /api/v1/label/<label_name>/values
 /api/v1/label/__name__/values
@@ -481,6 +494,7 @@
 /api_docs
 /api_smartapp/storage/
 /apidocs
+/apidocs/
 /apis
 /apis/apps/v1/namespaces/default/deployments
 /apis/ceph.rook.io/v1/namespaces/default/clusters/my-cluster
@@ -488,6 +502,7 @@
 /apis/external.metrics.k8s.io
 /apis/metrics.k8s.io
 /apis/v1
+/apiv1/
 /aplicacao/application/configs/application.ini
 /app/config/parameters.yml
 /app/config/parameters.yml.dist
@@ -528,6 +543,7 @@
 /asynchPeople/
 /auditevents
 /aura
+/auth
 /auth.html
 /auth/login
 /auth/realms/master/.well-known/openid-configuration
@@ -556,6 +572,7 @@
 /bin/catalina.sh
 /bin/console
 /BitKeeper/etc/config
+/bitrix/admin/index.php?login=yes
 /blog/?alg_wc_ev_verify_email=eyJpZCI6MSwiY29kZSI6MH0=
 /blog/phpmyadmin/
 /bower.json
@@ -631,6 +648,7 @@
 /config/database.yml
 /config/database.yml.enc
 /config/databases.yml
+/config/db.php
 /config/elasticsearch.yml
 /config/environment.rb
 /config/error_log
@@ -914,6 +932,10 @@
 /hosts
 /hsqldb%0a
 /htdocs
+/htdocs/.gitignore
+/htdocs/.htaccess
+/htdocs/robots.txt
+/htpasswd
 /httpd.conf
 /hybridconfig/
 /HyperGraphQL
@@ -1000,6 +1022,7 @@
 /kafka-manager/
 /karma.conf.js
 /key.pem
+/keybase.txt
 /keycloak.json
 /kustomization.yml
 /laravel
@@ -1065,6 +1088,7 @@
 /manage
 /management
 /manager/html
+/manifest.json
 /mantis/verify.php?id=1&confirm_hash=
 /mantisBT/verify.php?id=1&confirm_hash=
 /mappings
@@ -1084,6 +1108,7 @@
 /mifs/c/d/android.html
 /mifs/login.jsp
 /mifs/user/login.jsp
+/migration.db
 /minio/prometheus
 /mobile/error
 /module/
@@ -1212,6 +1237,7 @@
 /private.pem
 /privatekey.key
 /probes
+/proc/self/environ
 /prod2local.sh
 /production.log
 /profile
@@ -1263,6 +1289,7 @@
 /readme.txt
 /ready
 /readyz
+/redis.conf
 /redmine/config/configuration.yml
 /redmine/config/environment.rb
 /redmine/config/initializers/secret_token.rb
@@ -1400,6 +1427,7 @@
 /sphinx-graphiql
 /spring
 /sql.sql
+/sql/dump.sql
 /ssl/localhost.key
 /sslmgr
 /stages/
@@ -1689,6 +1717,8 @@
 /wgetrc
 /whoAmI/
 /wiki
+/wls-wsat/CoordinatorPortType
+/WLSConsole/
 /wordpress/wp-config.php
 /wordpress/wp-content/debug.log
 /wp
@@ -1700,6 +1730,7 @@
 /ws_ftp.ini
 /www.key
 /xampp/phpmyadmin/
+/xdebug/
 /xds
 /xmldata?item=all
 /xmldata?item=CpqKey
